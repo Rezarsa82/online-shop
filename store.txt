@@ -1,0 +1,10 @@
+Products:
+Id = 0 Name = milk Brand = mihan Stock = 40 Price = 10.000000 Date = 2024/02/06
+(product) Id = 1 Name = milk Brand = kale Stock = 100 Price = 100.000000 Date = 2023/02/06
+(product) Id = 2 Name = ice-cream Brand = mihan Stock = 50 Price = 25.000000 Date = 2025/02/06
+Customers:
+Id = 0 Name = Reza Phone-number = 1234 Address = tehran Balance = 1000.000000 Number-of-receipts = 2
+Date = 2022/01/02 Items = 0 5 1 0 2 4 
+Date = 2022/01/02 Items = 0 5 1 0 2 4 
+(customer) Id = 1 Name = ali Phone-number = 5678 Address = karaj Balance = 45000.000000 Number-of-receipts = 0
+End-Of-File
